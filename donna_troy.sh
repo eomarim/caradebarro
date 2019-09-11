@@ -1,5 +1,7 @@
 #!/bin/bash
 
+ls -ltr .
+
 fliged COWSAY
 
 for COWSAY in $(ls /usr/share/cowsay/cows/)
