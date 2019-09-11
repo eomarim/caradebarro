@@ -8,3 +8,5 @@ do
 	sleep 1;
 	clear;
 done
+
+echo x
