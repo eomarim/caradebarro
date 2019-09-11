@@ -10,7 +10,3 @@ do
 done
 
 echo x
-
-
-echo ls -ltr
-
